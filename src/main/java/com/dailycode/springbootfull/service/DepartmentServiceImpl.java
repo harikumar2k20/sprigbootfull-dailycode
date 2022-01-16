@@ -2,6 +2,6 @@ package com.dailycode.springbootfull.service;
 
 import org.springframework.stereotype.Service;
 
-@Service ervice
+@Service
 public class DepartmentServiceImpl {
 }
